@@ -1,5 +1,3 @@
-a = 1
-b = 1
 loop = 1
 
 firstlist = [1, 21, 31, 41, 51, 61, 71, 81, 91]
@@ -7,6 +5,8 @@ secondlist = [2, 22, 32, 42, 52, 62, 72, 82, 92]
 thirdlist = [3, 23, 33, 43, 53, 63, 73, 83, 93]
 
 while loop == 1:
+    a = 1
+    b = 1
     print("Fibonacci Sequence")
     n = int(input(("Enter the term of number that you want to find Fibonacci: ")))
 
