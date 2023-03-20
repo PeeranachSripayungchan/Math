@@ -26,5 +26,5 @@ while loop == 1:
     else:
         print(" \n")
         print("ERROR \n")
-        print("only choice is 2, 3, 4 and exit")
+        print("only choice is 1, 2, 3 and exit")
         print(" \n")
